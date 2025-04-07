@@ -69,9 +69,6 @@ After the session ends, the system thanks the user via voice and exits gracefull
 
 project_root/ ├── your_script.py ├── user_pose_data.db ├── saved_images/ │ └── <user_name>/ │ └── 2025-04-07_10-15-00.jpg
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -84,14 +81,11 @@ pip install opencv-python mediapipe numpy pyttsx3
 For GUI support on some Linux distros, make sure tkinter is installed.
 
 🚀 How to Run
-bash
-Copy
-Edit
+
 python your_script.py
 Controls:
 q → Quit the session early
 
-Runs for 180 seconds (3 minutes) by default
 
 📈 Future Enhancements
  Classify posture as "Good" or "Bad"
