@@ -19,8 +19,8 @@ This Python-based application is designed to **analyze human posture in real-tim
 
 ## 🖼️ Demo Preview
 
-> *(Add GIF or image of your application running here)*  
-> Example:  
+> ![image](https://github.com/user-attachments/assets/1c6ddc77-4c3d-4374-bb3c-534630c4e14a)
+ 
 > ![pose-demo](https://user-images.githubusercontent.com/your_image_url/demo.gif)
 
 ---
