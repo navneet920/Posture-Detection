@@ -2,6 +2,7 @@ Body Posture Detection with Pose Estimation
 rust
 Copy
 Edit
+
 HEAD -> User Input Form -> Greeting -> Database Setup -> Pose Detection & Analysis -> Data Logging -> End -> NULL
 🔗 Node 1: User Input Form (GUI using Tkinter)
 Collects user details:
